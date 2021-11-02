@@ -7,7 +7,7 @@
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />]() [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lucianosz7/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/lucianoz7/) [<img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/lucianosz7">](https://github.com/lucianosz7) [<img src="https://img.shields.io/badge/gitlab-%23330f63.svg?&style=for-the-badge&logo=gitlab&logoColor=white">](https://gitlab.com/lucianosz7) [<img src="https://img.shields.io/badge/Microsoft%20Outlook-0078D4?logo=microsoft-outlook&logoColor=white&style=for-the-badge">](mailto:luciano_skz7@outlook.com?subject=Hello%20again)
 
 
-<img align='right' src='https://i.pinimg.com/originals/67/11/32/671132437b4cf6b99099f9f5c43c5658.gif' width='200"'>
+<img align='right' src='https://giffiles.alphacoders.com/146/14693.gif' width='200"'>
 <div align="left">
   
   <h4>Here are some ideas to get you started:</h4>
