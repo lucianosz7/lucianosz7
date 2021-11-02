@@ -33,5 +33,11 @@
 </a>
 </div>
 
+
+<h3>🏆 GitHub Trophies</h3>
+
+<img align='center' src='https://github-profile-trophy.vercel.app/?username=lucianosz7&theme=dracula&margin-w=15&margin-h=15' width='1024"'>
+
+
 <br><br>
 ⭐️ From [Lucianosz7](https://github.com/lucianosz7)
